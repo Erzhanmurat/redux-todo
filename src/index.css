@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.todo-page {
+  background: url("./assets/image/way.jpeg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
